@@ -1,0 +1,11 @@
+.DS_Store
+*.exe
+*.dll
+*.zip
+*.mcpb
+.env
+.env.*
+*.key
+*.lic
+*license*
+!LICENSE

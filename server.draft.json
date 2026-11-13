@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.bdebruin/hipaa-studio",
+  "title": "HIPAA Studio",
+  "description": "Local air-gapped HIPAA X12 validation (SNIP 1-4, 5010 and 8060) over MCP stdio.",
+  "version": "0.0.0-draft",
+  "websiteUrl": "https://hipaastudio.com",
+  "repository": {
+    "url": "https://github.com/bdebruin/hipaa-studio",
+    "source": "github"
+  }
+}
